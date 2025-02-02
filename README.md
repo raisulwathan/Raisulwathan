@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/raisul-wathan/](https://www.linkedin.com/in/raisul-wathan/)
 
 - ⚡ Fun fact **i am very excited**
-- Portfolio https://portfolio-six-iota-63.vercel.app/
+- Portfolio https://wathan.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
